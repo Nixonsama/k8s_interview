@@ -1,0 +1,42 @@
+Kubernetes Interview Questions
+1. What is Kubernetes ?
+2. Explain Kubernetes architecture in detail?
+3. What is etcd ?
+4. What is master & minion/worker/slave IN Kubernetes?
+5. What is Replication controller & what it does?
+6. What is the difference between the replication controller and a replicaset?
+7. What is Daemon set?
+8. What is the difference between Kubernetes & Docker Swarm ?
+9. How can you rollback the previous version of application in Kubernetes?
+10. Explain the Differences between nodeport, clusterIP, load balancer & ingress ?
+11. What is ingress ?
+12. What is kubectl & kubelet ?
+13. What is the use of Kube-controller manager ?:
+14. What is a pod ?
+15. How many containers can run in a pod ?
+16. How many containers can be launched in a node?
+17. What is the role of Kube-Scheduler ?
+18. How does 2 pods communicate with each other ?
+19. How 2 containers inside a pod communicate with each other ?
+20. What are the namespaces in Kubernetes?
+21. What all possible networks available for Kubernetes?
+22. What does ConfigMaps and Secrets do in Kubernetes?
+23. What is the difference between ConfigMaps and Secrets in Kubernetes?
+24. How do you allocate the resources for a Kubernetes PODS?
+25. How does the persistent volume works in Kubernetes?
+26. What is Deployment ?
+27. How many deployment strategies are there in Kubernetes?
+28. What is Persistent volume and Persistent Volume Claim?
+29. What is HPA (Horizontal Pod Autoscaler) & It's Advantages?
+30. Which Monitoring tools have you used to Monitor your Kubernetes Cluster?
+31. What is Prometheus and Grafana ?
+32. What is GKE,EKS,AKS & What are the advantages with these compared to self-managed
+33. How do you secure Kubernetes Cluster?
+34. What is RBAC in Kubernetes?
+35. How to make quorum of cluster?
+36. Which logging tools have you used to Monitor your logs in a Kubernetes Cluster?
+37. Explain the differences and interdepencies between Docker, DockerSwarm and kubernetes?.
+38. Explain any micro-services project you support including tools and infrastructure setup?
+39. Explain the differences between monolithic architecture and microservices architecture?
+40. How can we archive high availability, resilient, scalable, fault tolerant and highly secure microservices architecture?
+Congratulations 
